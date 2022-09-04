@@ -34,7 +34,7 @@ public class SnakeAndLadders {
                 if (startPosition < 0)
                     startPosition = 0;
         }
-        System.out.println("Player " + Player_Name + "On Position :" + startPosition);
+        System.out.println("Player " + Player_Name + " On Position :" + startPosition);
 
 
     }
